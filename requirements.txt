@@ -1,0 +1,8 @@
+websocket-client==1.6.1
+kafka-python==2.0.2
+pyspark==3.5.0
+cassandra-driver==3.28.0
+redis==5.0.1
+streamlit==1.28.0
+pandas==2.1.2
+python-dotenv==1.0.0

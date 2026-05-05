@@ -1,0 +1,22 @@
+# Environments
+.env
+venv/
+env/
+myenv/
+.venv/
+.conda/
+
+# Database Volumes & Data
+cassandra_data/
+spark_checkpoints/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE & OS Files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
